@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/50bc3df2-5c7d-4f55-b907-5074738ffccd)
+
 #Dmoney API Automation
 
 ##Project Summary: In this project, I used the dmoney REST API with Postman to manage transactions between various accounts, including an Agent, two Customers, and a Merchant. I created users, deposited money from the SYSTEM account to the Agent, and facilitated transfers between the Agent and Customers. I also checked balances, processed a payment from a Customer to the Merchant, and retrieved transaction statements using transaction IDs. Throughout the project, I handled API errors, managed secure authentication with Bearer Tokens, and refined troubleshooting skills.
